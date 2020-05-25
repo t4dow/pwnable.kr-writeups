@@ -1,4 +1,4 @@
-bof
+#### bof
 
 We're given a code snippet and a binary file.
 
